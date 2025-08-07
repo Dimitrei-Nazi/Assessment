@@ -32,7 +32,7 @@ This is a Spring Boot application designed to manage document access control thr
 ### Run locally
 
 ```bash
-./mvnw spring-boot:run
+mvn spring-boot:run
 
 ```
 
@@ -100,7 +100,7 @@ Basic test coverage is provided for:
 
 To run tests:
 ```bash
-./mvnw test
+mvn test
 ```
 
 # Javadoc Documentation
